@@ -4,8 +4,8 @@ import LatestBlogCard from "./LatestBlogCard";
 const LatestBlogs = ({ blogs }) => {
   return (
     <div className="w-[90%] mx-auto ">
-      <h1 className="text-center text-3xl mt-5">
-        Latest <span className="text-accent">Blogs</span>
+      <h1 className="text-center text-4xl mt-5">
+        Latest Blogs From <span className="text-accent">Blogiz</span>
       </h1>
       <p className="text-center text-xl w-2/4 mx-auto">
         <i className="text-gray-400 ">

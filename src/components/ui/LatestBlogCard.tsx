@@ -43,7 +43,7 @@ const LatestBlogCard = ({ blog }) => {
           </div>
 
           <div className="flex items-center">
-            <AiFillLike className="text-accent text-xl" /> {blog.total_likes}{" "}
+            <AiFillLike className="text-accent text-xl" /> {blog.total_likes}
             Likes
           </div>
         </div>
